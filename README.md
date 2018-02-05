@@ -1,8 +1,11 @@
 ## requirement
 
 pytorch
+
 torchvision
+
 tensorboardX
+
 matplotlib
 
 ## files
